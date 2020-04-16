@@ -6,8 +6,8 @@ boolean Clack = false;
 Block block1;
 Block block2;
 int counter = 0;
-int digits = 4;
-int timeSteps = 1000;
+int digits = 6;
+int timeSteps = 10000;
 
 void setup() {
   size(500, 500);
