@@ -2,7 +2,6 @@ class Stop {
   int x=315;
   int y=470;
 
-
   Stop() {
   }
 
